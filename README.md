@@ -1,6 +1,5 @@
 # Snake Game
-This is a simple implementation of the classic Snake game using Python and the Pygame library. The game involves controlling a snake to eat food while avoiding colliding with walls or the snake's own body. The game ends when the snake hits a wall or collides with its own body.
-
+Using Python and the Pygame library, a basic edition of the well-known game Snake was developed. To play, individuals must guide a snake to eat food without hitting walls or its own body. The game concludes when the snake crashes into a wall or collides with itself.
 ## Getting Started
 ### Prerequisites
 To run the game, you will need:
